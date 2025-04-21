@@ -1,0 +1,1 @@
+mvn clean compile install -s C:\Banking_App\settings.xml
